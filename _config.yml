@@ -4,10 +4,10 @@
 baseurl:
 url: 
 date_format: "ordinal"
-title: 码志
-subtitle: ""
-description: ""
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 编程学习日历
+subtitle: "一个与编程而又什么都没写的日志"
+description: "空空如也"
+keywords: 日志,ywq, Alease,代码人的痛苦日志
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: AleaseYQ/AleaseYQ.github.io
@@ -37,7 +37,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: false
-        image_alt: 闷骚的程序员
+        image_alt: 代码人的痛苦日志
 # 压缩页面内容
 compress_html:
   clippings: all

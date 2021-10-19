@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-description: 没有链接的博客是孤独的
+description: 很可惜这个博客没链接推荐，因为他不知道推荐什么。。。
 keywords: 友情链接
 comments: true
 menu: 链接
