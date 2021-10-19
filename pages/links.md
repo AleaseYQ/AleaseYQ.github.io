@@ -18,7 +18,7 @@ permalink: /links/
 {% endfor %}
 </ul>
 
-> 友情链接
+> 友情链接（放弃吧，博主都不知道要推荐什么或许你可以发给我）
 
 <ul>
 {% for link in site.data.links %}
