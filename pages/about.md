@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: ywq
+keywords: c言语入门学习中
 comments: true
 menu: 关于
 permalink: /about/
